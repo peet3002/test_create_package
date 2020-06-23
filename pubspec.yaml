@@ -1,8 +1,8 @@
 name: test_create_package
-description: A new Flutter package project.
+description: Test Create, Publish and Manage Flutter Packages
 version: 0.0.1
-author:
-homepage:
+author: Ratchawit Srithongdee<peetpeet010@gmail.com>
+homepage: https://github.com/peet3002/test_create_package
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
